@@ -77,6 +77,7 @@ class ViewController: UIViewController {
         viewC.addGestureRecognizer(viewCGesture!)
         
         //viewFive.transform = view.transform.rotated(by: 270 * .pi/180)
+        
     }
 
     @objc func tapGestureAction(_ sender:UITapGestureRecognizer) {
